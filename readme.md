@@ -1,1 +1,7 @@
-This program generates horroscopes out of random input from 3 arrays
+# Mixed Messages
+
+This program generates Horoskops out of random input from 3 arrays
+
++ signs
++ results
++ advice
